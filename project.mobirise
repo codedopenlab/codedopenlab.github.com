@@ -31,7 +31,8 @@
         "isScrollToTopButton": false
       }
     },
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
